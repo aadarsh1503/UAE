@@ -75,11 +75,11 @@ const Hero = () => {
 
   return (
     <div>
-<div className="mx-auto px-1 min-h-screen relative">
+<div className="mx-auto  min-h-screen relative">
   {isLoaded ? (
-    <Slider ref={sliderRef} {...settings} className="image-container">
+    <Slider ref={sliderRef} {...settings} className="image-container1">
       {images.map((src, index) => (
-        <div key={index} className="slide-item">
+        <div key={index} className="slide-item1">
           <img
             src={src}
             alt={`Slide ${index + 1}`}

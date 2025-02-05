@@ -12,7 +12,7 @@ function CustomClearance() {
           <div className="flex-1 mb-4 lg:mb-0">
             <h2 className="text-3xl lg:ml-44 text-Graytext lg:mt-4 font-bold mb-1">
             Specialized  in
-              <h2 className='-ml-6 text-black font-roboto '>Customs Process</h2>
+              <h2 className='-ml-6 text-black font-roboto  '>Customs Process</h2>
             </h2>
             <div className="h-1 lg:w-[270px] lg:ml-36 bg-yellow-500"></div>
           </div>
